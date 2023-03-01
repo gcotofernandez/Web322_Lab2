@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "linebyline": "^1.3.0",
+    "server.js": "^1.0.0"
+  },
+  "name": "gabby",
+  "version": "1.0.0",
+  "main": ".mongorc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Coto Fernandez",
+  "license": "ISC",
+  "description": "Web 322 Lab 2",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Web322_Lab2"
+  }
+}
